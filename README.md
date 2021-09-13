@@ -2,6 +2,12 @@
 
 ***LÁSZLÓ DÓRA***
 
+*Made in Visual Studio 2019*
+
+*Programming language used: C#*
+
+*.NET Core 3.1 Console Application*
+
 **Objective**
 
 Using a programming language of your choosing, implement a solution for the task below. You
