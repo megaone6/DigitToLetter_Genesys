@@ -1,5 +1,7 @@
 # DigitToLetter_Genesys
- 
+
+LÁSZLÓ DÓRA
+
 Objective
 
 Using a programming language of your choosing, implement a solution for the task below. You
