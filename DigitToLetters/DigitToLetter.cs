@@ -8,6 +8,10 @@ namespace DigitToLetters
     public class DigitToLetter
     {
         private readonly String digits; // String for the input
+        public String Digits
+        {
+            get { return digits; }
+        }
         private IEnumerable<String> combinations; // an enumerable type for the combinations of letters
 
         private readonly ReadOnlyDictionary<char, List<char>> numbersAndLetters; // a read only Dictionary for storing the number-letter combinations
